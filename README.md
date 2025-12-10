@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **skhussam01.com** For Collaboration/Project or Anything Else. 😊😊
 # 💫 About Me:
- 🔭I’m currently working on: smart contracts, DApps, and improving my blockchain skills.<br>👨🏼‍🤝‍👨🏾I’m looking to collaborate on: blockchain, crypto, and Web3 development projects.<br>🤝I’m looking for help with: learning advanced blockchain tools and frameworks.<br>🌱Ask me about: Solidity, smart contracts, and Web3 development.<br>📨Ask me about: Solidity, smart contracts, and Web3 development.<br>⚡Fun fact: I enjoy building blockchain projects more than watching movies 😄. 
+🔭I’m currently working on: smart contracts, DApps, and improving my blockchain skills.<br>👨🏼‍🤝‍👨🏾I’m looking to collaborate on: blockchain, crypto, and Web3 development projects.<br>🤝I’m looking for help with: learning advanced blockchain tools and frameworks.<br>🌱Ask me about: Solidity, smart contracts, and Web3 development.<br>⚡Fun fact: I enjoy building blockchain projects more than watching movies 😄. 
 
 
 ## 🌐 Socials:
