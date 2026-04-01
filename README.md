@@ -1,10 +1,23 @@
 # 💫 Hi 👋, I'm Shaikh Hussam
-**A passionate Blockchain Developer**
+**A passionate FullStack  Developer**
 
 Email Me 👉 ✉️ **skhussam01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 # 💫 About Me:
-🔭I’m currently working on: smart contracts, DApps, and improving my blockchain skills.<br>👨🏼‍🤝‍👨🏾I’m looking to collaborate on: blockchain, crypto, and Web3 development projects.<br>🤝I’m looking for help with: learning advanced blockchain tools and frameworks.<br>🌱Ask me about: Solidity, smart contracts, and Web3 development.<br>⚡Fun fact: I enjoy building blockchain projects more than watching movies 😄. 
+🚀 **Tech Stack:**
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
 
+💡 **What I Do:**
+- Build responsive and user-friendly web applications  
+- Develop REST APIs and backend services  
+- Work with databases and server-side logic  
+
+🌱 **Currently Learning:**
+- Advanced React & Backend Architecture  
+- Docker, CI/CD, AWS  
+- Exploring Web3 & Blockchain Development  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/skhussam_1127) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hussam_1127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hussam_1127) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Hussam1127) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hussam-1127) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skhussam01@gmail.com) 
