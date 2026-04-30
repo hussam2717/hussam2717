@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shaikh Hussamuddin
-**A passionate FullStack  Developer**
+**A passionate Frontend  Developer**
 
 Email Me 👉 ✉️ **skhussam01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 # 💫 About Me:
