@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shaikh Hussamuddin
-**A passionate Frontend  Developer**
+Frontend Developer | React | Building real-world projects 🚀
 
 Email Me 👉 ✉️ **skhussam01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 # 💫 About Me:
@@ -10,14 +10,14 @@ Email Me 👉 ✉️ **skhussam01@gmail.com** For Collaboration/Project or Anyth
 - Tools: Git, GitHub, VS Code
 
 💡 **What I Do:**
-- Build responsive and user-friendly web applications  
-- Develop REST APIs and backend services  
-- Work with databases and server-side logic  
+🎨 Build responsive & modern UI/UX
+⚡ Optimize performance & write clean code
+🔗 Develop REST APIs & integrate backend
+📱 Create real-world projects with React 
 
 🌱 **Currently Learning:**
 - Advanced React & Backend Architecture  
 - Docker, CI/CD, AWS  
-- Exploring Web3 & Blockchain Development  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/skhussam_1127) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hussam_1127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hussam_1127) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Hussam1127) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hussam-1127) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skhussam01@gmail.com) 
